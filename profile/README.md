@@ -1,6 +1,5 @@
 ![babycareai-mochcare](https://github.com/user-attachments/assets/5150a8cd-f3dd-4105-8ceb-d5d656bd2024)
 
-
 <div align="center">
 <h2>Repository</h2>
 <pre><code>
@@ -28,7 +27,7 @@
 <pre><code>
 <table style="width: 100%;">
 <tr>
-    <td align="center" style="width: 49%;"><img src="https://github.com/user-attachments/assets/c99def99-ecf0-45a9-8360-6c5c9c1ed2b4" width="130px;" alt=""></a></td>
+    <td align="center" style="width: 49%;"><img src="https://github.com/user-attachments/assets/f349beed-e740-4cc4-9762-eac5b29dc852" width="130px;" alt=""></a></td>
     <td align="center" style="width: 49%;"><img src="https://github.com/user-attachments/assets/b75fd4a9-5671-427e-8480-bdb7f6f144d7" width="130px;" alt=""></a></td>
     <td align="center" style="width: 49%;"><img src="https://github.com/user-attachments/assets/248e3fa2-7ebf-4dc8-8dd8-aaae327ab8a7" width="130px;" alt=""></a></td>
     <td align="center" style="width: 49%;"><img src="https://github.com/user-attachments/assets/79ac2226-eb21-4653-9844-65699b981f5a" width="130px;" alt=""></a></td>
