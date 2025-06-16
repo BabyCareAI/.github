@@ -18,7 +18,8 @@
 🔒 [Model Repository(Private)](https://github.com/BabyCareAI)
 
 📱 Frontend  
-🔒 [Mobile App Repository(Private)](https://github.com/BabyCareAI])
+🔗 [Streamlit Repository](https://github.com/BabyCareAI/babycareai-streamlit)
+🔒 [Mobile App Repository(Private)](https://github.com/BabyCareAI)
 </code></pre>
 </div>
 
